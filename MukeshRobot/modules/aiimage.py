@@ -41,7 +41,7 @@ async def imagine_(b, message: Message):
     caption = f"""
 ✦ sᴜᴄᴇssғᴜʟʟʏ ɢᴇɴᴇʀᴀᴛᴇᴅ ✦
 
-❍ **ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ➛** [๛ᴅ ᴏ ʀ ᴇ ᴀ ᴍ ᴏ ɴ ༗](https://t.me/Doreamon_ro_bot)
+❍ **ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ➛** [๛ᴀ ɴ ɴ ᴀ ༗](https://t.me/AnaaXMusic_bot)
 ❍ **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➛** {message.from_user.mention}
 """
     await m.delete()
