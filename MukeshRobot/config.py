@@ -18,7 +18,7 @@ class Config(object):
 
     OWNER_USERNAME = ("OWNER_USERNAME", "Greatperson_Xd")
     
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Incricible")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Anaa_Support_Chat")
    
     START_IMG = getenv("START_IMG", "https://graph.org/file/6b7ba5df9b008e44203b8.jpg")
 
