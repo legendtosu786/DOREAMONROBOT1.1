@@ -80,7 +80,7 @@ from telethon import __version__ as s
 from MukeshRobot import OWNER_ID, dispatcher
 from MukeshRobot import pbot as client
 
-Mukesh = "https://telegra.ph/file/b40bb6b61dceaca50d834.jpg"
+Mukesh = "https://telegra.ph/file/62261e1da5c8760f17afb.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
